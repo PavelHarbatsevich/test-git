@@ -11,3 +11,5 @@ let lastName = "Lilu"
 var evilName = "Zorg"
 
 var thing = "multipassport"
+
+var corbanJob = "taxi driver"
